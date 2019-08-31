@@ -1,0 +1,2 @@
+1. Create a program that take in a PDF/PowerPoint and convert it to a nicely formated markdown, similar to the Markdown notes found in this repository
+2. Add OpenCV to this program to create Markdown notes from an image of a Powerpoint Slide, this is to allow for easy and fast note taking when professors are petty and refuse to post the lecture notes online
